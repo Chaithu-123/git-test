@@ -1,0 +1,57 @@
+body {
+    background-color: lightblue;
+}
+
+#test {
+    background-color: black;
+    position: relative;
+    width: 1340px;
+    height: 500px;
+    color: white;
+    border: 3px solid green;
+    border-style: solid;
+}
+
+#test1 {
+    background-color: white;
+    position: absolute;
+    top: 108px;
+    right: 379px;
+    width: 700px;
+    height: 250px;
+    color: black;
+    border: 3px solid white;
+}
+
+#test2 {
+    background-color: red;
+    position: absolute;
+    top: 159px;
+    right: 632px;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+    color: black;
+    border: 3px solid white;
+}
+
+.box1 {
+    position: relative;
+    background-color: black;
+    color: white;
+    border: 3px solid green;
+    border-style: solid;
+    height: 300px;
+    width: 1340px;
+}
+
+.box2 {
+    position: absolute;
+    background-color: white;
+    color: black;
+    top: 75px;
+    width: 232px;
+    height: 169px;
+    right: 610px;
+    border: 3px solid white;
+}
