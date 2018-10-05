@@ -55,3 +55,21 @@ body {
     right: 610px;
     border: 3px solid white;
 }
+
+.one {
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+}
+
+.two {
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+}
+
+.three {
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+}
